@@ -1,0 +1,4 @@
+tabulate
+pycryptodome
+hashlib
+pyinstaller
